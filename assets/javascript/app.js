@@ -110,7 +110,7 @@ $(document).ready(function () {
         //   method: "GET",
         //   headers: {
         //     "X-RapidAPI-Host": "utelly-tv-shows-and-movies-availability-v1.p.rapidapi.com",
-        //     "X-RapidAPI-Key": "d6bd752cddmshce9fab663c6a442p1574b2jsncf974a1b4d76",  
+        //     "X-RapidAPI-Key": "****************************************",  
         //   }
         // }).then(function(data) {
         //   console.log("UTELLY RESPONSE")
